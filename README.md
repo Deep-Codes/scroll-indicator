@@ -23,7 +23,12 @@ Tried and Tested on NextJS , React , CRA.
 
 Make sure you have `node` installed.
 
-Do `npm install scroll-indicator` to install the Package , this package needs `react` & `react-dom` as `peerDependencies` so make sure you got them Installed.
+To install the Package
+
+```bash
+npm install scroll-indicator
+```
+this package needs `react` & `react-dom` as `peerDependencies` so make sure you got them Installed.
 
 ## 📖 Documentation
 
