@@ -8,7 +8,7 @@ interface ScrollIndicatorProps {
 const ScrollIndicator: React.FC<ScrollIndicatorProps> = ({
   height = '10px',
   bgColor = 'gray',
-  // @ts-ignore
+  // @tss-ignore
   ...props
 }) => {
   const [scroll, setScroll] = React.useState<number>(0);

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 782 419" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-854.403,-7379.91)">
+        <g transform="matrix(1,0,0,1,163.196,6981.82)">
+            <g transform="matrix(1,0,0,1,1073,562.586)">
+                <g transform="matrix(1,0,0,1,-113,-164.5)">
+                    <clipPath id="_clip1">
+                        <rect x="0" y="0" width="226" height="329"/>
+                    </clipPath>
+                    <g clip-path="url(#_clip1)">
+                        <g transform="matrix(0.678484,0,0,0.641108,-61.0638,0)">
+                            <g>
+                                <path d="M256.238,430.145L166.469,335.246L195.527,307.758L256.16,371.855L316.434,307.797L345.566,335.207L256.238,430.145ZM422,392L422,120C422,53.832 368.168,0 302,0L210,0C143.832,0 90,53.832 90,120L90,392C90,458.168 143.832,512 210,512L302,512C368.168,512 422,458.168 422,392ZM302,40C346.113,40 382,75.887 382,120L382,392C382,436.113 346.113,472 302,472L210,472C165.887,472 130,436.113 130,392L130,120C130,75.887 165.887,40 210,40L302,40ZM256,81C244.953,81 236,89.953 236,101C236,112.047 244.953,121 256,121C267.047,121 276,112.047 276,101C276,89.953 267.047,81 256,81ZM256,161C244.953,161 236,169.953 236,181C236,192.047 244.953,201 256,201C267.047,201 276,192.047 276,181C276,169.953 267.047,161 256,161ZM256,241C244.953,241 236,249.953 236,261C236,272.047 244.953,281 256,281C267.047,281 276,272.047 276,261C276,249.953 267.047,241 256,241Z" style="fill:url(#_Linear2);fill-rule:nonzero;"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,163.196,6981.82)">
+            <g transform="matrix(1,0,0,1,127.011,-6933.13)">
+                <text x="561.001px" y="7748.43px" style="font-family:'GTWalsheimProBold', 'GT Walsheim Pro';font-weight:700;font-size:83.912px;fill:url(#_Linear3);">SCR<tspan x="732.226px " y="7748.43px ">O</tspan>LL-INDIC<tspan x="1136.67px 1187.15px 1226.07px " y="7748.43px 7748.43px 7748.43px ">ATO</tspan>R</text>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="_Linear2" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(332,0,0,332,90,256)"><stop offset="0" style="stop-color:rgb(210,246,197);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(40,223,153);stop-opacity:1"/></linearGradient>
+        <linearGradient id="_Linear3" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(787.454,0,0,112.634,561.001,7720.67)"><stop offset="0" style="stop-color:rgb(189,243,192);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(55,225,157);stop-opacity:1"/></linearGradient>
+    </defs>
+</svg>
